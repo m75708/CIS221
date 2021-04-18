@@ -52,6 +52,7 @@ h1 {
   background-color: rgb(226,235,180);
   padding: 5px 15px 2px 15px;
   margin: 0 -15px 20px -15px;
+  width: 61%;
 }
 h2 {
   font-size: 1.5em;
@@ -75,4 +76,9 @@ h2 {
   border-radius: 10px;
   box-shadow: 3px 6px rgb(50,205,50), 5px 2px rgb(245, 171, 53, 1);
   overflow: scroll; /* Show scrollbars */
+  margin: -245px 10px 10px 10px;
+}
+.fixP {
+  /* fix the first paragraph tag being naughty */
+  width: 61%;
 }
