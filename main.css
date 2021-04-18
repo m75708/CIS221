@@ -34,9 +34,7 @@ html {
 body {
   background-color: rgb(255,255,255);
   border: 3px solid rgb(75,75,75);
-  color: orange;
-  text-shadow: 1px 1px 2px black, 0 0 25px yellow, 0 0 5px orange;
-  box-shadow: 3px 6px rgb(50,205,50);
+  box-shadow: 3px 6px rgb(50,205,50), 5px 2px rgb(245, 171, 53, 1);
   max-width: 760px;
   margin-top: 20px;
   margin-left: auto;
@@ -75,8 +73,6 @@ h2 {
   border: 1px dotted rgb(252,101,18);
   border-top: 20px solid rgb(252,101,18);
   border-radius: 10px;
-  color: orange;
-  text-shadow: 1px 1px 2px black, 0 0 25px yellow, 0 0 5px orange;
-  box-shadow: 3px 6px rgb(50,205,50);
+  box-shadow: 3px 6px rgb(50,205,50), 5px 2px rgb(245, 171, 53, 1);
   overflow: scroll; /* Show scrollbars */
 }
